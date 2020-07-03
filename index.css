@@ -1,0 +1,35 @@
+
+
+#post-listener { 
+    text-align: center;
+    margin: auto;
+ }
+
+#search {
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+}
+
+#heading {
+    text-align: center;
+    margin: auto;
+}
+
+#body {
+    margin: 20px;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+
+    margin: auto;
+    width: 700px;
+    padding: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#title {
+    text-align: center;
+    margin: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
